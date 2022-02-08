@@ -1,4 +1,4 @@
-# React Split Pane
+# React Split Pane -  a fork of https://github.com/tomkp/react-split-pane
 
 [![NPM version](https://img.shields.io/npm/v/react-split-pane.svg?style=flat)](https://www.npmjs.com/package/react-split-pane)
 ![NPM license](https://img.shields.io/npm/l/react-split-pane.svg?style=flat)
@@ -8,6 +8,7 @@
 [![Coverage Status](https://img.shields.io/coveralls/tomkp/react-split-pane/master.svg?style=flat)](https://coveralls.io/r/tomkp/react-split-pane)
 
 Split-Pane React component, can be nested or split vertically or horizontally!
+Resizer can now accept a component to render
 
 ## Installing
 
